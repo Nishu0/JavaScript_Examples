@@ -1,5 +1,5 @@
 
-console.log("-------------");
+console.log("------------");
 console.log("Numbers");
 var num=97;
 console.log("Roll Number::"+num);
