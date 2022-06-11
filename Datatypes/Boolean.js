@@ -1,0 +1,10 @@
+console.log("------------");
+console.log("Boolean");
+var boolvar1=true;
+console.log("Boolean Variable1::"+boolvar1);
+var boolvar2=false;
+console.log("Boolean Variable2::"+boolvar2);
+var x=97;
+var y=98;
+console.log("Comparison between two variable");
+console.log(x==y);
